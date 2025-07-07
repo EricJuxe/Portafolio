@@ -45,5 +45,3 @@ Formulario de contacto-
 
 
 
-
-    Todas las imágenes deben colocarse en la carpeta img/ del proyecto.
